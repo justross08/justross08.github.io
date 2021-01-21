@@ -1,0 +1,9 @@
+name: "personal-website"
+output_dir: "."
+navbar:
+  title: "The Website of Justin M. Ross"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About Me"
+      href: about.html
