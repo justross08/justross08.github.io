@@ -7,3 +7,8 @@ navbar:
       href: index.html
     - text: "Research & Writing"
       href: research.html
+    - text: "CV"
+      href: https://github.com/justross08/justross08.github.io/blob/main/docs/cv.pdf
+    - text: "Podcast"
+      href: https://www.buzzsprout.com/1017922
+      
