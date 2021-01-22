@@ -4,4 +4,4 @@ title: "The Homepage of Justin M. Ross"
 
 Where the econometrics are never harmless and the regressions always "demeaning."
 
-<img src="files/ross.jpg" style="width:50%">
+<img src="ross.jpg" style="width:50%">
