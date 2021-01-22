@@ -1,5 +1,7 @@
 ---
-title: "Personal Website"
+title: "The Homepage of Justin M. Ross"
 ---
 
-Hello, World!
+Where the econometrics are never harmless and the regressions always "demeaning."
+
+<img src="files/ross.jpg" style="width:50%">
