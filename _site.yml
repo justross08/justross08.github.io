@@ -8,7 +8,14 @@ navbar:
     - text: "Research & Writing"
       href: research.html
     - text: "CV"
-      href: https://github.com/justross08/justross08.github.io/blob/main/docs/cv.pdf
+      href: https://github.com/justross08/justross08.github.io/raw/main/docs/cv.pdf
     - text: "Podcast"
       href: https://www.buzzsprout.com/1017922
-      
+    - text: "Blog"
+      href: https://pubfinpapers.blog/
+    - text: "My Running"
+      href: running.html
+    - text: "My Students"
+      href: doc_students.html
+    - text: "PhD Exams"
+      href: doc_exams.html
