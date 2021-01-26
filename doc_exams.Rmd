@@ -10,23 +10,23 @@ output:
 
 Outside of medicine, there are two types of degrees that result in the title of "Doctor": The DPA and the PhD
 
-The PhD is the best course of study to pursue a life of scholarship. You will write a dissertation that seeks to advance literature's state of knowledge through research. The PhD makes available the career as a "professor" which will involve teaching at a college or university. While doctoral training emphasizes research (the currency of the realm), if you're unsure whether becoming a professor is write for you, ask yourself "would I be happy teaching four classes a term with only a little time for research at a regional branch campus?" If the answer is "yes" then pursue, though of course policy think tanks, government, and the private sector are also major employers of PhDs. 
+The PhD is the best course of study to pursue a life of scholarship. You will write a dissertation that seeks to advance literature's state of knowledge through research. The PhD makes available the career as a "professor" which will involve teaching at a college or university. While doctoral training emphasizes research (the currency of the realm), if you're unsure whether becoming a professor is right for you, ask yourself "would I be happy teaching four classes a term with only a little time for research at a regional branch campus?"^[Jason Brennan's book proposed this question in his excellent [book](https://www.amazon.com/gp/product/B07YQ8XG7R/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1).]  If the answer is "yes" then pursue, though of course policy think tanks, government, and the private sector are also major employers of PhDs.
 
 The DPA is a managerial oriented degree. For DPAs, the meaning of "research" is to read and perhaps synthesize existing scholarship, and possibly collect useful data through surveys to help rationalize a decision. DPAs are a stepping stone to becoming chief executives of agencies, like school superintendents. If you want to implement policies and make managerial decisions while being called "doctor" then the DPA is probably for you.
 
 ## What should I look for in a PhD program?
 
-PhD programs are very expensive to universities to run. There are idealized reasons for universities to run them, but a common deciding factor is that they benefit the faculty by becoming 1) high quality research assistants; 2) future researchers who cite their work; 3) source of instructors; and consequently 4) a recruitment tool for when hiring faculty.
+PhD programs are very expensive to universities to run. There are idealized reasons for universities to run them, but a common deciding factor is that they benefit the faculty by providing 1) high quality research assistants; 2) future researchers who cite their work; 3) source of instructors; and consequently 4) a recruitment tool for when hiring faculty.
 
-Most of the factors are actually well-aligned with the doctoral student goals. They should pick a program which have faculty whose work they wish to emulate so they can learn from them, and make their early mistakes teaching while the stakes are quite low. However, it is helpful to look out for signs where the "vanity" motivations do not align with the student. Look for programs where:
+Most of the factors are actually well-aligned with the goals of doctoral students. They should pick a program which have faculty whose work they wish to emulate so they can learn from them, and make their early mistakes teaching while the stakes are quite low. However, it is helpful to look out for signs where the "vanity" motivations do not align with the student. Look for programs where:
 
 * The program has courses only for doctoral students. Many programs will have at least a few courses that are sitting in on a undergraduate or masters course, but it should not be the primary experience. 
 
 * You should know loosely what you want to work on for your dissertation (e.g. "health policy", "urban sprawl", "tax analysis", etc.). The program ideally should have several faculty you could see serving as your PhD adviser on that dissertation. 
 
-  + At some point you need a PhD committee and that might diversify away from your topic, but your chair/adviser should be pretty close to your main interest. A program with only one person like that is risky to you. They might take a job someplace else, or 
+  + At some point you need a PhD committee and that might diversify away from your topic, but your chair/adviser should be pretty close to your main interest. A program with only one person like that is risky to you. They might take a job someplace else, become ill, or turn out to have an intolerable personality.
 
-  + Probably the ideal "mentor" faculty when thinking about advisers are full professors who are still publishing frequently in good journals. Do not expect to work for *emeritus* professors. You might consider contacting professors to see if they are still taking on new students.
+  + Probably the ideal "mentor" faculty when thinking about advisers are full professors who are still publishing frequently in good journals. Do not expect to work for *emeritus* professors. You might consider contacting professors to see if they are still taking on new students. Young assistant professors are wonderful committee members, but are only a bit removed from their own dissertation and need time to build a network they can share with you.
 
 ## Public Finance Doctorate at the O'Neill School
 
@@ -42,7 +42,7 @@ Advantages you will find in the public finance [PhD program](https://oneill.indi
   + [Bob Kravchuk](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/kravchuk-robert.html) (Budgeting, Macro policy)
   + [Justin Ross](https://justross08.github.io) (Taxation, Fedralism, and Political Economy)
   
-* [A number of](https://oneill.indiana.edu/faculty-research/groups/index.html) public finance adjacent faculty (e.g. health care finance, school finance, social policy, etc.)
+* [A number of](https://oneill.indiana.edu/faculty-research/groups/index.html) public finance adjacent faculty (e.g. health care finance, school finance, social policy, public management, etc.)
 
 * Four of the last five recipients of the Association of Public Budgeting and Financial Management's [Best Graduate Student Paper](https://abfm.org/?page_id=93) have been O'Neill doctoral students (Felipe Lozano-Rojas, Sian Mughan, Luke Spreen, and Lang Yang).
 
