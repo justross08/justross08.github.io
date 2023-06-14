@@ -1,7 +1,7 @@
 ---
 title: "Research"
 ---
-Last Updated: March 2021
+Last Updated: June 2023
 
 [Google Scholar Page](https://scholar.google.com/citations?hl=en&user=9ZauRjcAAAAJ)
 
@@ -20,7 +20,7 @@ My research is featured in outlets like the National Tax Journal, Journal of Pub
 
 #### PUBLISHED PEER REVIEW
 
-"[**Too Small to Fail: The Role of Medicaid in Mitigating Pandemic-Related Fiscal Strain on Local Governments**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3641810)." (with Victoria Perez and Joseph A. Benitez).  Forthcoming at *Public Budgeting and Finance*
+"[**Too Small to Fail: The Role of Medicaid in Mitigating Pandemic-Related Fiscal Strain on Local Governments**](doi/10.1111/pbaf.12298)." (2021). Victoria Perez, Justin Ross, and Joseph A. Benitez. *Public Budgeting and Finance* 41(3): 74-97.
 
 "[**After Wayfair: What are State Use Taxes Worth?**](http://dx.doi.org/10.2139/ssrn.3397342)" (2019). Mikesell, John L. and Justin M. Ross. *National Tax Journal*, December 72(4): 801-20.
 
@@ -92,7 +92,9 @@ My research is featured in outlets like the National Tax Journal, Journal of Pub
 
 "[**Consumer Incidence in Sales Tax Holidays: Evidence from Tennessee.**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2986456)" (with Felipe Lozano-Rojas). Revise and resubmit at *National Tax Journal*.
 
-"[**Do Local Governments Represent Voter Preferences? Evidence from the Affordable Care Act on Local Government Support for Hospitals**](https://www.nber.org/papers/w26094)" (with Vicki Perez and Kosali Simon). Revise and resubmit at *Journal of Urban Economics*.
+"[**Do Local Governments Represent Voter Preferences? Evidence from the Affordable Care Act on Local Government Support for Hospitals**](https://www.nber.org/papers/w26094)" (with Vicki Perez and Kosali Simon). Revise and resubmit at *Public Budgeting \& Finance*.
+
+"[**Use Tax Administration and Revenue Production in the States**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216944)" (with John Mikesell and John Stavick). Revise and resubmit at *Public Budgeting \& Finance*.
 
 "[**Are Back-To School Sales Tax Holidays Progressive or Regressive?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3392108)" (with Felipe Lozano-Rojas)
 
@@ -100,25 +102,25 @@ My research is featured in outlets like the National Tax Journal, Journal of Pub
 
 "[**Is Trust in Local Government Influenced by the ``Marketplace" of Choice?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444534)." (with Lanjun Peng)
 
-"[**Use Tax Administration and Revenue Production in the States**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4216944)" (with John Mikesell and John Stavick)
 
 #### WORKING PAPERS
 
-"Did State Imposed Tax & Expenditure Limits Reduce the Fiscal Size of Local Governments? Revisiting the Evidence"(with John Stavick).
+
 
 
 #### WORKS IN PROGRESS
 
-"A Test of the Ferguson-TEL Hypothesis" (with Sian Mughan)
+"Do Beginning Farmer Tax Credit Induce New Farm Start-Ups" (w/Wesley Zebrowski and Julia C.D. Valliant)
+
+"The Effect of State Occupational Licensing of Paid Tax Preapration on Tax Professional Services." (with/Coady Wing and Denvil Duncan)
+
+"The Effect of AirBNB Expansion on Local Housing Prices: Evidence from the 2017 Solar Eclipse" (w/Denvil Duncan)
+
+"State Versus Local Tax Enforcement Effectiveness: Evidence from Airbnb." (w/Luis Navarro and Whitney Afonso)
 
 "Real Property Taxation: The Definition of Property Values as a Problem of Fiscal Policy" (with John Mikesell)
 
-"The Effect of Homeowner Mobility on Racial Segregation: Empirical Evidence from Florida" (with Sarah Larson)
-
-"Tax Fatigue."
-
-"Pass Through of State Sales Taxes in the Sharing Economy: Evidence from AirBNB"
-
+"Did State Imposed Tax & Expenditure Limits Reduce the Fiscal Size of Local Governments? Revisiting the Evidence"(with John Stavick and Patrick Carlin).
 
 
 #### BOOK AND SYMPOSIUM CONTRIBUTIONS
