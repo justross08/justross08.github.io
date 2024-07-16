@@ -12,7 +12,7 @@ Professor of Public Finance and Economics, [Indiana University](https://oneill.i
 
 Co-Editor-in-Chief, [*Public Budgeting and Finance*](https://onlinelibrary.wiley.com/journal/15405850)
 
-Vice Chair, [Association of Budgeting \& Financial Management](https://abfm.org/)
+Chair-Elect, [Association of Budgeting \& Financial Management](https://abfm.org/)
 
 Twitter: @PubFinPapers
 
@@ -23,3 +23,5 @@ Twitter: @PubFinPapers
 <img src="speasign.jpg" style="width:50%">
 
 <img src="presentations2008.jpg" style="width:50%">
+
+#rmarkdown::render("index.Rmd")
