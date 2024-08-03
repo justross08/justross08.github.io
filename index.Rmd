@@ -24,4 +24,3 @@ Twitter: @PubFinPapers
 
 <img src="presentations2008.jpg" style="width:50%">
 
-#rmarkdown::render("index.Rmd")
