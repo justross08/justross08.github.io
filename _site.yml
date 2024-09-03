@@ -9,10 +9,10 @@ navbar:
       href: research.html
     - text: "CV"
       href: https://github.com/justross08/justross08.github.io/raw/main/docs/cv.pdf
-    - text: "Podcast"
-      href: https://www.buzzsprout.com/1017922
-    - text: "Blog"
-      href: https://pubfinpapers.blog/
+    - text: "Substack"
+      href: https://justinross.substack.com/
+    - text: "Book"
+      href: https://www.cengage.com/c/fiscal-administration-11e-mikesell-ross/9798214135328/
     - text: "My Running"
       href: running.html
     - text: "My Students"
