@@ -12,9 +12,11 @@ Professor of Public Finance and Economics, [Indiana University](https://oneill.i
 
 Co-Editor-in-Chief, [*Public Budgeting and Finance*](https://onlinelibrary.wiley.com/journal/15405850)
 
-Chair-Elect, [Association of Budgeting \& Financial Management](https://abfm.org/)
+Chair, [Association of Budgeting \& Financial Management](https://abfm.org/)
 
-Twitter: @PubFinPapers
+X: @PubFinPapers
+
+Substack: https://justinross.substack.com/
 
 [Contact Information](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/ross-justin.html)
 
@@ -24,4 +26,4 @@ Twitter: @PubFinPapers
 
 <img src="presentations2008.jpg" style="width:50%">
 
-<!-- rmarkdown::render(“index.Rmd”) rmarkdown::render_site("index.Rmd") -->
+#rmarkdown::render("index.Rmd")
