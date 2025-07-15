@@ -20,9 +20,9 @@ My research is featured in outlets like the National Tax Journal, Journal of Pub
 
 #### PUBLISHED PEER REVIEW
 
-"[**Is Trust in Local Government Influenced by the ``Marketplace" of Choice?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4444534)." Peng, Lanjun and Justin M. Ross. *Public Administration Review* (Forthcoming).
+"[**Is Trust in Local Government Influenced by the ``Marketplace" of Choice?**](https://onlinelibrary.wiley.com/doi/10.1111/puar.13869)." Peng, Lanjun and Justin M. Ross. (2025). *Public Administration Review* 85(3): 768-86.
 
-“[**Does the Federal Budget Process Matter for Fiscal Sustainability?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501850)” Duncan, Denvil, Justin M. Ross, and John L. Mikesell. (2024). *Public Finance Review* 53(1): 29-61.
+“[**Does the Federal Budget Process Matter for Fiscal Sustainability?**](https://journals.sagepub.com/doi/abs/10.1177/10911421241273374)” Duncan, Denvil, Justin M. Ross, and John L. Mikesell. (2024). *Public Finance Review* 53(1): 29-61.
 
 “[**By the people, for the people: Local governments' representation of voter preferences under the Affordable Care Act.**](https://doi.org/10.1111/pbaf.12359)” Perez, Victoria, Justin M. Ross, and Kosali Simon. (2024). *Public Budgeting \& Finance* 44(2): 90-161.
 
@@ -94,25 +94,28 @@ My research is featured in outlets like the National Tax Journal, Journal of Pub
 
 
 
-#### UNDER PEER REVIEW
+#### Working Papers
+
+"[**The Effect of AirBNB on Housing Prices: Evidence from the 2017 Solar Eclipse**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262252)" (w/Denvil Duncan). Under Review.
+
+"**Is There Still A Role For Classical Public Finance? Challenges from AI and Identity Politics.**" Revise and Resubmit at *Perspectives on Public Management and Governance*.
+
+"[**Do Tax Incentives for Farmland Supply Induce New Farm Start-Ups? Evidence from Iowa's Beginning Farmer Tax Credit**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146352)" (w/Wesley Zebrowski and Julia C.D. Valliant). Revise and Resubmit at *Applied Economic Perspectives and Policy.*
+
 
 "[**Do Local Governments Site Nuisance Activities Along Borders? A Empirical Strategy Applied to Wind Turbines**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2882208)." (with Sanya Carley)
 
-"[**Consumer Incidence in Sales Tax Holidays: Evidence from Tennessee.**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2986456)" (with Felipe Lozano-Rojas). Revise and resubmit at *National Tax Journal*.
+"[**Consumer Incidence in Sales Tax Holidays: Evidence from Tennessee.**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2986456)" (with Felipe Lozano-Rojas). 
 
 "[**Are Back-To School Sales Tax Holidays Progressive or Regressive?**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3392108)" (with Felipe Lozano-Rojas)
 
-"[**Do Tax Incentives for Farmland Supply Induce New Farm Start-Ups? Evidence from Iowa's Beginning Farmer Tax Credit**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5146352)" (w/Wesley Zebrowski and Julia C.D. Valliant)
 
 
-#### WORKING PAPERS
-"[**The Effect of AirBNB on Housing Prices: Evidence from the 2017 Solar Eclipse**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5262252)" (w/Denvil Duncan)
+
+#### Works in Progress
+
 
 "State Versus Local Tax Enforcement Effectiveness: Evidence from Airbnb." (w/Luis Navarro and Whitney Afonso)
-
-
-#### WORKS IN PROGRESS
-
 
 "The Effect of State Occupational Licensing of Paid Tax Preapration on Tax Professional Services." (with/Coady Wing and Denvil Duncan)
 
