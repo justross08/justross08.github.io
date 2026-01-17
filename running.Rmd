@@ -12,7 +12,7 @@ While now I only am a recreational runner, I'm very proud of my past accomplishm
 
 #### High School Cross-Country (Coached by Cynthia Berry)
 
-<img src="halloffame.jpg" style="width:50%" align="right">
+<img src="images/halloffame.jpg" style="width:50%" align="right">
 
 Elected Team captain all 4 years
 
@@ -44,7 +44,7 @@ Led team in points 1997-1999.
 
 #### College Cross-Country (Coached by Bob Schul)
 
-<img src="mural.jpg" style="width:50%" align="right">
+<img src="images/mural.jpg" style="width:50%" align="right">
 
 Best Times: 14:56 for 5K^[I actually ran a 14:56 through the 5K of an 8K race during my senior year, as we rarely ran open 5Ks in college. For an open 5K, my fastest time was a 15:12 that I ran during my sophomore year.], 25:29 for 5mile (8K), 32:46 for 10K
 
@@ -88,4 +88,4 @@ Marathon: 2:45:25 (Richmond, VA)
 Highlights: RRCA Regional Master Half Marathon Champion (Carmel), 1st Overall Hoosier Half Marathon.
 
 
-<img src="holland5k.jpg" style="width:50%" align="right">
+<img src="images/holland5k.jpg" style="width:50%" align="right">

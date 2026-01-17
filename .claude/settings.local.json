@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(du:*)",
+      "Bash(ls:*)",
+      "Bash(Rscript:*)",
+      "Bash(python -c:*)",
+      "Bash(powershell.exe -Command \"Get-Command winword.exe -ErrorAction SilentlyContinue | Select-Object -ExpandProperty Source\")",
+      "Bash(\"/c/Program Files/R/R-4.4.1/bin/Rscript.exe\" -e \"rmarkdown::render_site\\(\\)\")",
+      "Bash(\"/c/Program Files/R/R-4.4.1/bin/Rscript.exe\" -e \"Sys.setenv\\(RSTUDIO_PANDOC=''/c/Program Files/RStudio/resources/app/bin/quarto/bin/tools''\\); rmarkdown::render_site\\(\\)\")",
+      "Bash(export PATH=\"/c/Program Files/RStudio/resources/app/bin/quarto/bin/tools:$PATH\")",
+      "Bash(git checkout:*)",
+      "Bash(tree:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
