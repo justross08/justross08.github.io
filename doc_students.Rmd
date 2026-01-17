@@ -2,7 +2,7 @@
 title: "Doctoral Students"
 ---
 
-<img src="students.jpg" style="width:50%">
+<img src="images/students.jpg" style="width:50%">
 
 With current and past students at the NTA in Tampa (2019)
 

@@ -1,0 +1,492 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Doctorate in Public Finance</title>
+
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">The Website of Justin M. Ross</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research &amp; Writing</a>
+</li>
+<li>
+  <a href="https://github.com/justross08/justross08.github.io/raw/main/docs/cv.pdf">CV</a>
+</li>
+<li>
+  <a href="https://justinross.substack.com/">Substack</a>
+</li>
+<li>
+  <a href="https://www.cengage.com/c/fiscal-administration-11e-mikesell-ross/9798214135328/">Book</a>
+</li>
+<li>
+  <a href="running.html">My Running</a>
+</li>
+<li>
+  <a href="doc_students.html">My Students</a>
+</li>
+<li>
+  <a href="doc_exams.html">PhDs in Public Finance</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Doctorate in Public Finance</h1>
+
+</div>
+
+<div id="TOC">
+<ul>
+<li><a href="#should-i-pursue-a-phd"
+id="toc-should-i-pursue-a-phd">Should I pursue a Phd?</a></li>
+<li><a href="#what-should-i-look-for-in-a-phd-program"
+id="toc-what-should-i-look-for-in-a-phd-program">What should I look for
+in a PhD program?</a></li>
+<li><a href="#public-finance-doctorate-at-the-oneill-school"
+id="toc-public-finance-doctorate-at-the-oneill-school">Public Finance
+Doctorate at the O’Neill School</a></li>
+<li><a href="#previous-field-exams"
+id="toc-previous-field-exams">Previous Field Exams</a></li>
+</ul>
+</div>
+
+<div id="should-i-pursue-a-phd" class="section level2">
+<h2>Should I pursue a Phd?</h2>
+<p>Outside of medicine, there are two types of degrees that result in
+the title of “Doctor”: The DPA and the PhD</p>
+<p>The PhD is the best course of study to pursue a life of scholarship.
+You will write a dissertation that seeks to advance literature’s state
+of knowledge through research. The PhD makes available the career as a
+“professor” which will involve teaching at a college or university.
+While doctoral training emphasizes research (the currency of the realm),
+if you’re unsure whether becoming a professor is right for you, ask
+yourself “would I be happy teaching four classes a term with only a
+little time for research at a regional branch campus?”<a href="#fn1"
+class="footnote-ref" id="fnref1"><sup>1</sup></a> If the answer is “yes”
+then pursue, though of course policy think tanks, government, and the
+private sector are also major employers of PhDs.</p>
+<p>The DPA is a managerial oriented degree. For DPAs, the meaning of
+“research” is to read and perhaps synthesize existing scholarship, and
+possibly collect useful data through surveys to help rationalize a
+decision. DPAs are a stepping stone to becoming chief executives of
+agencies, like school superintendents. If you want to implement policies
+and make managerial decisions while being called “doctor” then the DPA
+is probably for you.</p>
+</div>
+<div id="what-should-i-look-for-in-a-phd-program"
+class="section level2">
+<h2>What should I look for in a PhD program?</h2>
+<p>PhD programs are very expensive to universities to run. There are
+idealized reasons for universities to run them, but a common deciding
+factor is that they benefit the faculty by providing 1) high quality
+research assistants; 2) future researchers who cite their work; 3)
+source of instructors; and consequently 4) a recruitment tool for when
+hiring faculty.</p>
+<p>Most of the factors are actually well-aligned with the goals of
+doctoral students. They should pick a program which have faculty whose
+work they wish to emulate so they can learn from them, and make their
+early mistakes teaching while the stakes are quite low. However, it is
+helpful to look out for signs where the “vanity” motivations do not
+align with the student. Look for programs where:</p>
+<ul>
+<li><p>The program has courses only for doctoral students. Many programs
+will have at least a few courses that are sitting in on a undergraduate
+or masters course, but it should not be the primary experience.</p></li>
+<li><p>You should know loosely what you want to work on for your
+dissertation (e.g. “health policy”, “urban sprawl”, “tax analysis”,
+etc.). The program ideally should have several faculty you could see
+serving as your PhD adviser on that dissertation.</p>
+<ul>
+<li><p>At some point you need a PhD committee and that might diversify
+away from your topic, but your chair/adviser should be pretty close to
+your main interest. A program with only one person like that is risky to
+you. They might take a job someplace else, become ill, or turn out to
+have an intolerable personality.</p></li>
+<li><p>Probably the ideal “mentor” faculty when thinking about advisers
+are full professors who are still publishing frequently in good
+journals. Do not expect to work for <em>emeritus</em> professors. You
+might consider contacting professors to see if they are still taking on
+new students. Young assistant professors are wonderful committee
+members, but are only a bit removed from their own dissertation and need
+time to build a network they can share with you.</p></li>
+</ul></li>
+</ul>
+</div>
+<div id="public-finance-doctorate-at-the-oneill-school"
+class="section level2">
+<h2>Public Finance Doctorate at the O’Neill School</h2>
+<p>Advantages you will find in the public finance <a
+href="https://oneill.indiana.edu/doctoral/degrees/public-affairs/index.html">PhD
+program</a> at the O’Neill School include:</p>
+<ul>
+<li><p>Three (3) doctoral-only seminars in the public finance field:
+taxation, debt, and budgeting. These are not masters courses where you
+just write an extra paper, the entire course is geared towards doctoral
+training.</p></li>
+<li><p>Five (5) tenured public finance faculty at the associate level or
+higher that can mentor a dissertation.</p>
+<ul>
+<li><a href="https://sites.google.com/site/denvild/Home">Denvil
+Duncan</a> (Taxation, National and international)</li>
+<li><a
+href="https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/heim-bradley.html">Bradley
+Heim</a> (Taxation and Public Expenditure Programs)</li>
+<li><a
+href="https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/johnson-craig.html">Craig
+Johnson</a> (Public Debt and Credit)</li>
+<li><a
+href="https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/kravchuk-robert.html">Bob
+Kravchuk</a> (Budgeting, Macro policy)</li>
+<li><a href="https://justross08.github.io">Justin Ross</a> (Taxation,
+Fedralism, and Political Economy)</li>
+</ul></li>
+<li><p><a
+href="https://oneill.indiana.edu/faculty-research/groups/index.html">A
+number of</a> public finance adjacent faculty (e.g. health care finance,
+school finance, social policy, public management, etc.)</p></li>
+<li><p>Five of the last six recipients of the Association of Public
+Budgeting and Financial Management’s <a
+href="https://abfm.org/?page_id=93">Best Graduate Student Paper</a> have
+been O’Neill doctoral students (John Stavick, Felipe Lozano-Rojas, Sian
+Mughan, Luke Spreen, and Lang Yang).</p></li>
+<li><p>Recent placements (since 2017) include tenure track positions at
+University of Georgia, University of Maryland, George Washington
+University, and Arizona State University.</p></li>
+</ul>
+</div>
+<div id="previous-field-exams" class="section level2">
+<h2>Previous Field Exams</h2>
+<p>At the O’Neill School, students seeking to complete a field in public
+finance must pass a comprehensive field examination. <strong><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/Public%20Finance%20Exam%20Guidelines_Aug2016.docx">Guidelines</a></strong>
+can be found here, and our recent exams can be viewed below.</p>
+<p><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/2020%20public%20finance%20phd%20exam.doc">2020</a></p>
+<p><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/2019%20public%20finance%20phd%20exam.doc">2019</a></p>
+<p><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/2018%20public%20finance%20phd%20exam.doc">2018</a></p>
+<p><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/2017%20public%20finance%20phd%20exam.doc">2017</a></p>
+<p><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/2016%20public%20finance%20phd%20exam.doc">2016</a>
+(See <a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/Example%20Answer%202016.docx">Example
+Answer</a> for #2)</p>
+<p><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/2015%20public%20finance%20phd%20exam.doc">2015</a></p>
+<p><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/2014%20public%20finance%20phd%20exam.doc">2014</a></p>
+<p><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/2013%20public%20finance%20phd%20exam.doc">2013</a></p>
+<p><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/2012%20public%20finance%20phd%20exam.doc">2012</a></p>
+<p><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/2011%20public%20finance%20phd%20exam.doc">2011</a></p>
+<p><a
+href="https://github.com/justross08/justross08.github.io/blob/main/docs/2010%20public%20finance%20phd%20exam.doc">2010</a></p>
+</div>
+<div class="footnotes footnotes-end-of-document">
+<hr />
+<ol>
+<li id="fn1"><p>Jason Brennan’s book proposed this question in his
+excellent <a
+href="https://www.amazon.com/gp/product/B07YQ8XG7R/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1">book</a>.<a
+href="#fnref1" class="footnote-back">↩︎</a></p></li>
+</ol>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

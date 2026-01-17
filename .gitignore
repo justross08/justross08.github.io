@@ -1,4 +1,20 @@
+# R Session Data
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
+
+# R Markdown outputs (site_libs will be regenerated)
+site_libs/
+
+# Large uncompressed images (keep compressed versions)
+# Uncomment these if you want to avoid committing images
+# *.jpg
+# *.png
+# *.jpeg
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db

@@ -1,0 +1,506 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Doctoral Students</title>
+
+<script src="site_libs/header-attrs-2.28/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">The Website of Justin M. Ross</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="research.html">Research &amp; Writing</a>
+</li>
+<li>
+  <a href="https://github.com/justross08/justross08.github.io/raw/main/docs/cv.pdf">CV</a>
+</li>
+<li>
+  <a href="https://justinross.substack.com/">Substack</a>
+</li>
+<li>
+  <a href="https://www.cengage.com/c/fiscal-administration-11e-mikesell-ross/9798214135328/">Book</a>
+</li>
+<li>
+  <a href="running.html">My Running</a>
+</li>
+<li>
+  <a href="doc_students.html">My Students</a>
+</li>
+<li>
+  <a href="doc_exams.html">PhDs in Public Finance</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">Doctoral Students</h1>
+
+</div>
+
+
+<p><img src="images/students.jpg" style="width:50%"></p>
+<p>With current and past students at the NTA in Tampa (2019)</p>
+<div id="section" class="section level3">
+<h3>2025</h3>
+<p><strong><a href="https://luisnavarro.netlify.app/">Luis Navarro</a>,
+Public Affairs (Adviser)</strong></p>
+<p>Thesis: Subnational Borrowing under Liquidity Constraints</p>
+<p>Placement: Assistant Professor at University of Washington, Evans
+School of Public Policy</p>
+<p><strong><a href="https://www.lanjunpeng.com/">Lanjun Peng</a>, Public
+Affairs (Adviser)</strong></p>
+<p>Thesis: Bureaucracy and Regulation in Public Finance</p>
+<p>Placement: Assistant Professor at Arizona State University, School of
+Public Affairs</p>
+</div>
+<div id="section-1" class="section level3">
+<h3>2023</h3>
+<p><strong><a href="https://www.johnstavick.com/">John Stavick</a>,
+Public Affairs (Adviser)</strong></p>
+<p>Thesis: State Budgeting and Public Employee Turnover</p>
+<p>Placement: Assistant Professor at Oakland University, Department of
+Political Science</p>
+</div>
+<div id="section-2" class="section level3">
+<h3>2022</h3>
+<p><strong><a href="https://ruthwinecoff.info/">Ruth Winecoff</a>,
+Public Affairs (Committee)</strong></p>
+<p>Thesis: Networks, Regulation, and Borrowing Costs in the Public
+Sector</p>
+<p>Placement: Assistant Professor at Rutgers University-New
+Brunswick</p>
+</div>
+<div id="section-3" class="section level3">
+<h3>2020</h3>
+<p><strong><a href="http://felipelozanorojas.com/">Felipe A. Lozano
+Rojas</a>, Public Affairs (Adviser)</strong></p>
+<p>Thesis: Instrument Design and Effectiveness in Social Policies</p>
+<p>Placement: Assistant Professor at University of Georgia</p>
+<p><strong><a
+href="https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/part-time/zambrano-julio.html">Julio
+Zambrano</a>, Public Affairs (Committee)</strong></p>
+<p>Thesis: The Role of Sectoral Diversity on Collaborative Governance
+and Citizen Co-Production</p>
+<p>Placement: Fulbright Scholar</p>
+</div>
+<div id="section-4" class="section level3">
+<h3>2019</h3>
+<p><strong><a
+href="https://sites.google.com/iu.edu/sianmughan/home">Sian Mughan</a>,
+Public Affairs (Adviser)</strong></p>
+<p>Thesis: Criminal Justice and Public Finance</p>
+<p>Placement: Associate Professor at Arizona State University</p>
+</div>
+<div id="section-5" class="section level3">
+<h3>2018</h3>
+<p><strong><a href="https://www.lindseybullinger.com/">Lindsey
+Bullinger</a>, Public Affairs (Committee)</strong></p>
+<p>Thesis: The Effect of Social Policy on Child and Family Health and
+Well-Being in the United States.</p>
+<p>Current Position: Associate Professor at Georgia Tech School of
+Public Policy</p>
+</div>
+<div id="section-6" class="section level3">
+<h3>2017</h3>
+<p><strong><a
+href="https://sites.google.com/site/katelangyang/home">Lang Kate
+Yang</a>, Public Affairs (Adviser)</strong></p>
+<p>Thesis: “Fiscal Federalism and Distressed Localities: An Empirical
+Analysis”</p>
+<p>Current Position: Associate Professor at George Washington
+University, Trachtenberg School of Public Policy</p>
+<p><strong><a href="https://sites.google.com/site/lukespreen/">Thomas
+Luke Spreen</a>, Public Affairs (Committee)</strong></p>
+<p>Thesis: “An Empirical Analysis of Behavioral Responses to State
+Income Taxes”</p>
+<p>Current Position: Associate Professor at University of Maryland,
+School of Public Policy</p>
+</div>
+<div id="section-7" class="section level3">
+<h3>2014</h3>
+<p><strong><a
+href="http://www.larsonse.com/Sarah_Larson/Main_Page.html">Sarah
+Larson</a>, Public Policy (Adviser)</strong></p>
+<p>Thesis: “A Case of Rational Irrationality: Evidence of Expressive
+Interest Bias in State e-Commerce Sales and Use Tax Legislation.”
+[Defended May 2014]</p>
+<p>Current Position: Associate Professor, Miami University of Ohio,
+Department of Political Science</p>
+</div>
+<div id="section-8" class="section level3">
+<h3>2013</h3>
+<p><strong><a href="https://www.hummel-research.com/">Daniel Hummel</a>,
+Public Affairs at Florida Atlantic University (Committee)</strong></p>
+<p>Thesis: “Right-Sizing Cities: Strategies and Fiscal Health.”</p>
+<p>Current Position: Assistant professor of public administration at
+Michigan State University-Flint.</p>
+</div>
+<div id="section-9" class="section level3">
+<h3>2012</h3>
+<p><strong><a href="https://sites.google.com/site/tmoldogaziev/">Tima
+Tilek-uulu Moldogaziev</a> (Committee)</strong></p>
+<p>Thesis: “Information Economics in Insurance Markets for Municipal
+Debt Securities: Monoline Insurance in Primary and Secondary
+Trades.”</p>
+<p>Current Position: Associate Professor, School of Public &amp;
+International Affairs, University of Georgia.</p>
+<p><strong><a
+href="https://www.seattleu.edu/artsci/departments/ips/faculty-and-staff/olha-krupa-phd.html">Olha
+Krupa</a>, Public Affairs (Committee)</strong></p>
+<p>Thesis: “Market Value-Based Assessment System in Property Taxation:
+Equity, Institutional Determinants, and Cost Considerations.”</p>
+<p>Current Position: Associate professor in Institute of Public Service
+at Seattle University.</p>
+<p><strong>Sergio Villamayor-Tomas, Public Policy
+(Committee)</strong></p>
+<p>Thesis: “Understanding Robustness Through the Theory of the Commons:
+Irrigation Water Governance and Socio-Ecological Robustness in the
+Gallego and Cinca River Watersheds, Spain.”</p>
+<p>Current Position: Researcher of Resource Economics at Humboldt
+University of Berlin.</p>
+<p><strong>Natalia Ermasova, Public Affairs (Committee)</strong></p>
+<p>Thesis: “Capital Budgeting at the State Level: Empirical Analysis
+from the Economic Downturn to the Present.”</p>
+<p>Current Position: Assistant professor of public affairs at Governors
+State University.</p>
+<p><strong><a
+href="https://www.researchgate.net/profile/Liu_Cheol">Cheol Liu</a>,
+Public Affairs (Committee)</strong></p>
+<p>Thesis: “Impact of Public Officials’ Corruption on State
+Spending.”</p>
+<p>Initial Placement: Assistant Professor at City University of Hong
+Kong, Department of Public &amp; Social Administration</p>
+<p>Current Position: KDI School of Public Policy and Management</p>
+</div>
+<div id="section-10" class="section level3">
+<h3>2011</h3>
+<p><strong>Beth Neary, Public Affairs (Committee)</strong></p>
+<p>Thesis: “Paid Parental Leave in the United States: What We Can Learn
+from Existing International and Domestic Policies and How We Can Move
+Forward.”</p>
+<p>Initial Placement: Assistant Professor of Public Policy at the
+University of Connecticut.</p>
+</div>
+<div id="section-11" class="section level3">
+<h3>2010</h3>
+<p><strong><a
+href="https://faculty-directory.dartmouth.edu/michael-cox">Michael
+Cox</a>, Public Policy (Committee)</strong></p>
+<p>Thesis: “Exploring the Dynamics of Social-Ecological Systems: The
+Case of the Taos Valley Acequias.”</p>
+<p>Initial Placement: Assistant Professor of Environmental Studies at
+Dartmouth College.</p>
+<p>Current Position: Associate Professor of Environmental Studies at
+Dartmouth College.</p>
+<p><strong><a
+href="https://www.wku.edu/economics/staff/susane_leguizamon">Susane
+Leguizamon</a>, Economics at West Virginia University
+(Committee)</strong></p>
+<p>Thesis: “Keeping up with the Jonses, Staying Ahead of the Smiths:
+Three Essays on Relative House Size and House Price.”</p>
+<p>Initial Placement: Department of Economics Lecturer at Pennsylvania
+State University.</p>
+<p>Current Position: Associate Professor of Economics at Western
+Kentucky University</p>
+</div>
+<div id="section-12" class="section level3">
+<h3>2009</h3>
+<p><strong>Janey Quian Wang, Public Affairs (Committee)</strong></p>
+<p>Thesis: “Redistributive Budget, Intergovernmental Transfers, and
+Fiscal Institutions.”</p>
+<p>Current Position: Associate Professor of Public Administration at San
+Francisco State University.</p>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

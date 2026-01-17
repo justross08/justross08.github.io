@@ -1,5 +1,5 @@
 name: "personal-website"
-output_dir: "."
+output_dir: "docs"
 navbar:
   title: "The Website of Justin M. Ross"
   left:

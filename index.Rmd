@@ -4,7 +4,7 @@ title: "The Homepage of Justin M. Ross"
 
 Where the econometrics are never harmless and the regressions always "demeaning."
 
-<img src="ross_justin.jpg" style="width:50%">
+<img src="images/ross_justin.jpg" style="width:50%">
 
 Justin M. Ross
 
@@ -20,10 +20,10 @@ Substack: https://justinross.substack.com/
 
 [Contact Information](https://oneill.indiana.edu/faculty-research/directory/profiles/faculty/full-time/ross-justin.html)
 
-<img src="teachingJDR.jpg" style="width:50%">
+<img src="images/teachingJDR.jpg" style="width:50%">
 
-<img src="speasign.jpg" style="width:50%">
+<img src="images/speasign.jpg" style="width:50%">
 
-<img src="presentations2008.jpg" style="width:50%">
+<img src="images/presentations2008.jpg" style="width:50%">
 
 #rmarkdown::render("index.Rmd")
