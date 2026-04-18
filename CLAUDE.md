@@ -37,6 +37,8 @@ rmarkdown::render("research.Rmd")
 
 This outputs HTML to `docs/`. Both the `.Rmd` source and the regenerated `docs/*.html` must be committed together.
 
+**Warning:** `render_site()` deletes `docs/cv.pdf` every time it runs. After rendering, copy your `cv.pdf` back into `docs/` before committing.
+
 ## Deploying to GitHub
 
 After building, commit and push to `main`:
