@@ -1,5 +1,6 @@
 name: "personal-website"
 output_dir: "docs"
+include: ["cv.pdf"]
 output:
   html_document:
     theme: flatly
