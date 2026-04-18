@@ -27,7 +27,8 @@ The `docs/` directory contains the generated HTML files — **do not edit these 
 After editing `.Rmd` files, the HTML must be regenerated. Run in R (or RStudio):
 
 ```r
-# Rebuild the entire site
+# Rebuild the entire site from R
+setwd("C:/Users/justross/Dropbox/gitpage/justross08.github.io/.claude/worktrees/elegant-kalam")
 rmarkdown::render_site()
 
 # Rebuild a single page (faster for small edits)
