@@ -25,5 +25,3 @@ Substack: https://justinross.substack.com/
 <img src="images/speasign.jpg" style="width:50%">
 
 <img src="images/presentations2008.jpg" style="width:50%">
-
-#rmarkdown::render("index.Rmd")
