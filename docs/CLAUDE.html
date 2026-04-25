@@ -345,7 +345,8 @@ root:</p>
 <h2>Building the Site</h2>
 <p>After editing <code>.Rmd</code> files, the HTML must be regenerated.
 Run in R (or RStudio):</p>
-<pre class="r"><code># Rebuild the entire site
+<pre class="r"><code># Rebuild the entire site from R
+setwd(&quot;C:/Users/justross/Dropbox/gitpage/justross08.github.io/.claude/worktrees/elegant-kalam&quot;)
 rmarkdown::render_site()
 
 # Rebuild a single page (faster for small edits)
@@ -353,6 +354,11 @@ rmarkdown::render(&quot;research.Rmd&quot;)</code></pre>
 <p>This outputs HTML to <code>docs/</code>. Both the <code>.Rmd</code>
 source and the regenerated <code>docs/*.html</code> must be committed
 together.</p>
+<p><strong>Note:</strong> <code>cv.pdf</code> lives in the project root
+(not <code>docs/</code>). It is listed under <code>include</code> in
+<code>_site.yml</code> so <code>render_site()</code> copies it to
+<code>docs/</code> automatically. To update the CV, replace
+<code>cv.pdf</code> in the root, then render and commit.</p>
 </div>
 <div id="deploying-to-github" class="section level2">
 <h2>Deploying to GitHub</h2>

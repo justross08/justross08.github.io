@@ -20,6 +20,7 @@ install.packages("rmarkdown")
 ### Building
 To rebuild the entire site, run in R:
 ```r
+setwd("C:/Users/justross/Dropbox/gitpage/justross08.github.io/.claude/worktrees/elegant-kalam")
 rmarkdown::render_site()
 ```
 
@@ -29,6 +30,13 @@ To render a single page:
 ```r
 rmarkdown::render("index.Rmd")
 ```
+
+### Updating the CV
+Place the new `cv.pdf` in the **project root**:
+```
+C:\Users\justross\Dropbox\gitpage\justross08.github.io\.claude\worktrees\elegant-kalam\cv.pdf
+```
+Then run `rmarkdown::render_site()` — it will automatically copy `cv.pdf` to `docs/` as part of the build. Do **not** place it directly in `docs/`.
 
 ## Repository Structure
 ```
