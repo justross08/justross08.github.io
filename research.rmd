@@ -106,6 +106,10 @@ My research is featured in outlets like the National Tax Journal, Journal of Pub
 
 "[**State Versus Local Tax Enforcement Effectiveness: Evidence from Airbnb.**](https://papers.ssrn.com/abstract=6030515)" (w/Luis Navarro and Whitney Afonso). Under Review.
 
+"[**The Incidence of "Tampon Taxes": Evidence from the Elimination of State Sales Taxes on Feminine Hygiene Products**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6753464)" (w/Ziyue Xu, Shuangyu Chen, and Lanjun Peng). Under Review.
+
+"[**Do Budget Narratives Matter? Evidence from a Focal-Budget Experiment with Humans and AI Respondents**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6787718)" (with Whitney Afonso and Denvil Duncan). [Data and MCP](https://github.com/justross08/focal_budget_ai)
+
 "[**Do Local Governments Site Nuisance Activities Along Borders? A Empirical Strategy Applied to Wind Turbines**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2882208)." (with Sanya Carley)
 
 "[**Consumer Incidence in Sales Tax Holidays: Evidence from Tennessee.**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2986456)" (with Felipe Lozano-Rojas). 
