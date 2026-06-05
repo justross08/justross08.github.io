@@ -6,6 +6,11 @@ This is the academic website of Justin M. Ross, Professor of Public Finance at I
 
 Live site: https://justross08.github.io/
 
+## Workflow Rules
+
+- **Always work directly on `main`** — never use git worktrees or feature branches for this project. Worktrees create orphaned branches that fall out of sync with `main` and make it unclear which file is the true source.
+- **Never edit `docs/` files directly** — always edit the `.Rmd` source, rebuild, then commit both together.
+
 ## Source Files
 
 All editable content lives in `.Rmd` files in the project root:
@@ -28,7 +33,7 @@ After editing `.Rmd` files, the HTML must be regenerated. Run in R (or RStudio):
 
 ```r
 # Rebuild the entire site from R
-setwd("C:/Users/justross/Dropbox/gitpage/justross08.github.io/.claude/worktrees/elegant-kalam")
+setwd("C:/Users/justross/Dropbox/gitpage/justross08.github.io")
 rmarkdown::render_site()
 
 # Rebuild a single page (faster for small edits)
