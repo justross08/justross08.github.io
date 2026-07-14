@@ -106,7 +106,7 @@ My research is featured in outlets like the National Tax Journal, Journal of Pub
 
 "[**State Versus Local Tax Enforcement Effectiveness: Evidence from Airbnb.**](https://ssrn.com/abstract=6030515)" (w/Luis Navarro and Whitney Afonso). Under Review.
 
-"[**The Incidence of "Tampon Taxes": Evidence from the Elimination of State Sales Taxes on Feminine Hygiene Products**](https://ssrn.com/abstract=6753464)" (w/Ziyue Xu, Shuangyu Chen, and Lanjun Peng). Under Review.
+"[**The Incidence of "Tampon Taxes": Evidence from the Elimination of State Sales Taxes on Feminine Hygiene Products**](https://ssrn.com/abstract=6753464)" (w/Ziyue Xu, Shuangyu Chen, and Lanjun Peng). Revise and Resubmit at *National Tax Journal*.
 
 "[**Do Budget Narratives Matter? Evidence from a Focal-Budget Experiment with Humans and AI Respondents**](https://ssrn.com/abstract=6787718)" (with Whitney Afonso and Denvil Duncan). [Data and MCP](https://github.com/justross08/focal_budget_ai)
 
@@ -121,6 +121,8 @@ My research is featured in outlets like the National Tax Journal, Journal of Pub
 
 #### Works in Progress
 
+
+"Does AI Need Blind Review?" (with Daniel Simon)
 
 "The Effect of State Occupational Licensing of Paid Tax Preapration on Tax Professional Services." (with/Coady Wing and Denvil Duncan)
 

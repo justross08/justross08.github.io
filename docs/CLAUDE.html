@@ -295,6 +295,18 @@ Markdown</strong> and deployed to <strong>GitHub Pages</strong> from the
 <p>Live site: <a href="https://justross08.github.io/"
 class="uri">https://justross08.github.io/</a></p>
 </div>
+<div id="workflow-rules" class="section level2">
+<h2>Workflow Rules</h2>
+<ul>
+<li><strong>Always work directly on <code>main</code></strong> — never
+use git worktrees or feature branches for this project. Worktrees create
+orphaned branches that fall out of sync with <code>main</code> and make
+it unclear which file is the true source.</li>
+<li><strong>Never edit <code>docs/</code> files directly</strong> —
+always edit the <code>.Rmd</code> source, rebuild, then commit both
+together.</li>
+</ul>
+</div>
 <div id="source-files" class="section level2">
 <h2>Source Files</h2>
 <p>All editable content lives in <code>.Rmd</code> files in the project
@@ -346,7 +358,7 @@ root:</p>
 <p>After editing <code>.Rmd</code> files, the HTML must be regenerated.
 Run in R (or RStudio):</p>
 <pre class="r"><code># Rebuild the entire site from R
-setwd(&quot;C:/Users/justross/Dropbox/gitpage/justross08.github.io/.claude/worktrees/elegant-kalam&quot;)
+setwd(&quot;C:/Users/justross/Dropbox/gitpage/justross08.github.io&quot;)
 rmarkdown::render_site()
 
 # Rebuild a single page (faster for small edits)
